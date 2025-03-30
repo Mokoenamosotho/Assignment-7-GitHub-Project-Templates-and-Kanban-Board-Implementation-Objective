@@ -1,0 +1,8 @@
+
+## Reflection 
+
+Selecting the right Kanban template was challenging because there were many options, each with different levels of complexity. Some templates were too basic and lacked essential features like WIP limits or automation, while others were overly detailed, making them difficult to use effectively. Finding the right balance between simplicity and functionality required careful consideration of the team's workflow. Additionally, aligning the team on the best structure was not easy, as some members preferred a simple three-column format ("To Do," "In Progress," "Done"), while others needed more detailed stages to reflect their processes accurately.
+
+Customizing the template presented its own set of difficulties. Defining the right workflow stages required trial and error to ensure that tasks moved smoothly without unnecessary complexity. Setting appropriate Work-In-Progress (WIP) limits was another challenge, as limits that were too low caused delays, while limits that were too high led to bottlenecks. Integration with existing project management tools, such as Jira or Trello, added another layer of complexity, as some features required additional configurations or plugins.
+
+Overall, the process was more complicated than expected, especially in the initial setup phase. However, once the right structure was in place, the Kanban board became an effective tool for managing work efficiently. This experience highlighted the importance of flexibility, collaboration, and continuous improvement in optimizing workflow management.
